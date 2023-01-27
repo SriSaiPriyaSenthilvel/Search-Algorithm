@@ -100,10 +100,13 @@ else:
 
 ## Output:
 i)
+
 ![output](/Screenshot%20from%202023-01-27%2009-52-00.png)
 ii)
+
 ![output](/Screenshot%20from%202023-01-27%2009-53-36.png)
 iii)
+
 ![output](/Screenshot%20from%202023-01-27%2009-55-37.png)
 
 
